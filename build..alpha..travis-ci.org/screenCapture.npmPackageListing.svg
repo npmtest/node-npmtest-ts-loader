@@ -1,115 +1,115 @@
 <svg height="1790" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1790" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 18:02:25 +0000   125246 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 18:02:25 +0000    11659 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 18:02:25 +0000     3439 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 18:02:25 +0000     1100 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 18:02:25 +0000    11788 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 18:02:25 +0000     2080 bytes  UPGRADE.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 18:02:25 +0000      490 bytes  appveyor.yml</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 18:02:25 +0000     6876 bytes  dist/after-compile.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 18:02:25 +0000     2665 bytes  dist/compilerSetup.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 18:02:25 +0000     3061 bytes  dist/config.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 18:02:25 +0000      597 bytes  dist/constants.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 18:02:25 +0000     7407 bytes  dist/index.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 18:02:25 +0000     4612 bytes  dist/instances.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 18:02:25 +0000       79 bytes  dist/interfaces.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 18:02:25 +0000     2754 bytes  dist/logger.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 18:02:25 +0000      181 bytes  dist/resolver.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 18:02:25 +0000     5642 bytes  dist/servicesHost.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 18:02:25 +0000     4847 bytes  dist/utils.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 18:02:25 +0000     1353 bytes  dist/watch-run.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 18:02:25 +0000     1101 bytes  examples/webpack1-gulp-react-flux-babel-karma/LI\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 18:03:26 +0000   125246 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 18:03:26 +0000    11659 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 18:03:26 +0000     3439 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 18:03:26 +0000     1100 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 18:03:26 +0000    11788 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 18:03:26 +0000     2080 bytes  UPGRADE.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 18:03:26 +0000      490 bytes  appveyor.yml</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 18:03:26 +0000     6876 bytes  dist/after-compile.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 18:03:26 +0000     2665 bytes  dist/compilerSetup.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 18:03:26 +0000     3061 bytes  dist/config.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 18:03:26 +0000      597 bytes  dist/constants.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 18:03:26 +0000     7407 bytes  dist/index.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 18:03:26 +0000     4612 bytes  dist/instances.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 18:03:26 +0000       79 bytes  dist/interfaces.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 18:03:26 +0000     2754 bytes  dist/logger.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 18:03:26 +0000      181 bytes  dist/resolver.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 18:03:26 +0000     5642 bytes  dist/servicesHost.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 18:03:26 +0000     4847 bytes  dist/utils.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 18:03:26 +0000     1353 bytes  dist/watch-run.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 18:03:26 +0000     1101 bytes  examples/webpack1-gulp-react-flux-babel-karma/LI\</tspan>
 <tspan x="10" y="346">CENSE</tspan>
-<tspan x="10" y="362"> 20.  2017-04-19 18:02:25 +0000      399 bytes  examples/webpack1-gulp-react-flux-babel-karma/RE\</tspan>
+<tspan x="10" y="362"> 20.  2017-04-19 18:03:26 +0000      399 bytes  examples/webpack1-gulp-react-flux-babel-karma/RE\</tspan>
 <tspan x="10" y="378">ADME.md</tspan>
-<tspan x="10" y="394"> 21.  2017-04-19 18:02:25 +0000      587 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="394"> 21.  2017-04-19 18:03:26 +0000      587 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="410">lp/clean.js</tspan>
-<tspan x="10" y="426"> 22.  2017-04-19 18:02:25 +0000     1403 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="426"> 22.  2017-04-19 18:03:26 +0000     1403 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="442">lp/inject.js</tspan>
-<tspan x="10" y="458"> 23.  2017-04-19 18:02:25 +0000      646 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="458"> 23.  2017-04-19 18:03:26 +0000      646 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="474">lp/staticFiles.js</tspan>
-<tspan x="10" y="490"> 24.  2017-04-19 18:02:25 +0000     1250 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="490"> 24.  2017-04-19 18:03:26 +0000     1250 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="506">lp/tests.js</tspan>
-<tspan x="10" y="522"> 25.  2017-04-19 18:02:25 +0000     2831 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="522"> 25.  2017-04-19 18:03:26 +0000     2831 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="538">lp/webpack.js</tspan>
-<tspan x="10" y="554"> 26.  2017-04-19 18:02:25 +0000     1750 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="554"> 26.  2017-04-19 18:03:26 +0000     1750 bytes  examples/webpack1-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="570">lpFile.js</tspan>
-<tspan x="10" y="586"> 27.  2017-04-19 18:02:25 +0000     1565 bytes  examples/webpack1-gulp-react-flux-babel-karma/ka\</tspan>
+<tspan x="10" y="586"> 27.  2017-04-19 18:03:26 +0000     1565 bytes  examples/webpack1-gulp-react-flux-babel-karma/ka\</tspan>
 <tspan x="10" y="602">rma.conf.js</tspan>
-<tspan x="10" y="618"> 28.  2017-04-19 18:02:25 +0000     2518 bytes  examples/webpack1-gulp-react-flux-babel-karma/pa\</tspan>
+<tspan x="10" y="618"> 28.  2017-04-19 18:03:26 +0000     2518 bytes  examples/webpack1-gulp-react-flux-babel-karma/pa\</tspan>
 <tspan x="10" y="634">ckage.json</tspan>
-<tspan x="10" y="650"> 29.  2017-04-19 18:02:25 +0000     1170 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="650"> 29.  2017-04-19 18:03:26 +0000     1170 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="666">c/components/App.tsx</tspan>
-<tspan x="10" y="682"> 30.  2017-04-19 18:02:25 +0000      818 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="682"> 30.  2017-04-19 18:03:26 +0000      818 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="698">c/components/Greeting.tsx</tspan>
-<tspan x="10" y="714"> 31.  2017-04-19 18:02:25 +0000     1489 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="714"> 31.  2017-04-19 18:03:26 +0000     1489 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="730">c/components/WhoToGreet.tsx</tspan>
-<tspan x="10" y="746"> 32.  2017-04-19 18:02:25 +0000      548 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="746"> 32.  2017-04-19 18:03:26 +0000      548 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="762">c/index.html</tspan>
-<tspan x="10" y="778"> 33.  2017-04-19 18:02:25 +0000      193 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="778"> 33.  2017-04-19 18:03:26 +0000      193 bytes  examples/webpack1-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="794">c/main.tsx</tspan>
-<tspan x="10" y="810"> 34.  2017-04-19 18:02:25 +0000      961 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="810"> 34.  2017-04-19 18:03:26 +0000      961 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="826">st/components/App.tests.tsx</tspan>
-<tspan x="10" y="842"> 35.  2017-04-19 18:02:25 +0000     1639 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="842"> 35.  2017-04-19 18:03:26 +0000     1639 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="858">st/components/Greeting.tests.tsx</tspan>
-<tspan x="10" y="874"> 36.  2017-04-19 18:02:25 +0000     2554 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="874"> 36.  2017-04-19 18:03:26 +0000     2554 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="890">st/components/WhoToGreet.tests.tsx</tspan>
-<tspan x="10" y="906"> 37.  2017-04-19 18:02:25 +0000      159 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="906"> 37.  2017-04-19 18:03:26 +0000      159 bytes  examples/webpack1-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="922">st/main.js</tspan>
-<tspan x="10" y="938"> 38.  2017-04-19 18:02:25 +0000      562 bytes  examples/webpack1-gulp-react-flux-babel-karma/ts\</tspan>
+<tspan x="10" y="938"> 38.  2017-04-19 18:03:26 +0000      562 bytes  examples/webpack1-gulp-react-flux-babel-karma/ts\</tspan>
 <tspan x="10" y="954">config.json</tspan>
-<tspan x="10" y="970"> 39.  2017-04-19 18:02:25 +0000      922 bytes  examples/webpack1-gulp-react-flux-babel-karma/we\</tspan>
+<tspan x="10" y="970"> 39.  2017-04-19 18:03:26 +0000      922 bytes  examples/webpack1-gulp-react-flux-babel-karma/we\</tspan>
 <tspan x="10" y="986">bpack.config.js</tspan>
-<tspan x="10" y="1002"> 40.  2017-04-19 18:02:25 +0000     1101 bytes  examples/webpack2-gulp-react-flux-babel-karma/LI\</tspan>
+<tspan x="10" y="1002"> 40.  2017-04-19 18:03:26 +0000     1101 bytes  examples/webpack2-gulp-react-flux-babel-karma/LI\</tspan>
 <tspan x="10" y="1018">CENSE</tspan>
-<tspan x="10" y="1034"> 41.  2017-04-19 18:02:25 +0000      401 bytes  examples/webpack2-gulp-react-flux-babel-karma/RE\</tspan>
+<tspan x="10" y="1034"> 41.  2017-04-19 18:03:26 +0000      401 bytes  examples/webpack2-gulp-react-flux-babel-karma/RE\</tspan>
 <tspan x="10" y="1050">ADME.md</tspan>
-<tspan x="10" y="1066"> 42.  2017-04-19 18:02:25 +0000      587 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="1066"> 42.  2017-04-19 18:03:26 +0000      587 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="1082">lp/clean.js</tspan>
-<tspan x="10" y="1098"> 43.  2017-04-19 18:02:25 +0000     1403 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="1098"> 43.  2017-04-19 18:03:26 +0000     1403 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="1114">lp/inject.js</tspan>
-<tspan x="10" y="1130"> 44.  2017-04-19 18:02:25 +0000      646 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="1130"> 44.  2017-04-19 18:03:26 +0000      646 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="1146">lp/staticFiles.js</tspan>
-<tspan x="10" y="1162"> 45.  2017-04-19 18:02:25 +0000     1250 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="1162"> 45.  2017-04-19 18:03:26 +0000     1250 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="1178">lp/tests.js</tspan>
-<tspan x="10" y="1194"> 46.  2017-04-19 18:02:25 +0000     2797 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="1194"> 46.  2017-04-19 18:03:26 +0000     2797 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="1210">lp/webpack.js</tspan>
-<tspan x="10" y="1226"> 47.  2017-04-19 18:02:25 +0000     1750 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
+<tspan x="10" y="1226"> 47.  2017-04-19 18:03:26 +0000     1750 bytes  examples/webpack2-gulp-react-flux-babel-karma/gu\</tspan>
 <tspan x="10" y="1242">lpFile.js</tspan>
-<tspan x="10" y="1258"> 48.  2017-04-19 18:02:25 +0000      988 bytes  examples/webpack2-gulp-react-flux-babel-karma/ka\</tspan>
+<tspan x="10" y="1258"> 48.  2017-04-19 18:03:26 +0000      988 bytes  examples/webpack2-gulp-react-flux-babel-karma/ka\</tspan>
 <tspan x="10" y="1274">rma.conf.js</tspan>
-<tspan x="10" y="1290"> 49.  2017-04-19 18:02:25 +0000     2484 bytes  examples/webpack2-gulp-react-flux-babel-karma/pa\</tspan>
+<tspan x="10" y="1290"> 49.  2017-04-19 18:03:26 +0000     2484 bytes  examples/webpack2-gulp-react-flux-babel-karma/pa\</tspan>
 <tspan x="10" y="1306">ckage.json</tspan>
-<tspan x="10" y="1322"> 50.  2017-04-19 18:02:25 +0000     1170 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="1322"> 50.  2017-04-19 18:03:26 +0000     1170 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="1338">c/components/App.tsx</tspan>
-<tspan x="10" y="1354"> 51.  2017-04-19 18:02:25 +0000      818 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="1354"> 51.  2017-04-19 18:03:26 +0000      818 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="1370">c/components/Greeting.tsx</tspan>
-<tspan x="10" y="1386"> 52.  2017-04-19 18:02:25 +0000     1489 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="1386"> 52.  2017-04-19 18:03:26 +0000     1489 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="1402">c/components/WhoToGreet.tsx</tspan>
-<tspan x="10" y="1418"> 53.  2017-04-19 18:02:25 +0000      548 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="1418"> 53.  2017-04-19 18:03:26 +0000      548 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="1434">c/index.html</tspan>
-<tspan x="10" y="1450"> 54.  2017-04-19 18:02:25 +0000      193 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
+<tspan x="10" y="1450"> 54.  2017-04-19 18:03:26 +0000      193 bytes  examples/webpack2-gulp-react-flux-babel-karma/sr\</tspan>
 <tspan x="10" y="1466">c/main.tsx</tspan>
-<tspan x="10" y="1482"> 55.  2017-04-19 18:02:25 +0000      961 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="1482"> 55.  2017-04-19 18:03:26 +0000      961 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="1498">st/components/App.tests.tsx</tspan>
-<tspan x="10" y="1514"> 56.  2017-04-19 18:02:25 +0000     1639 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="1514"> 56.  2017-04-19 18:03:26 +0000     1639 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="1530">st/components/Greeting.tests.tsx</tspan>
-<tspan x="10" y="1546"> 57.  2017-04-19 18:02:25 +0000     2554 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="1546"> 57.  2017-04-19 18:03:26 +0000     2554 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="1562">st/components/WhoToGreet.tests.tsx</tspan>
-<tspan x="10" y="1578"> 58.  2017-04-19 18:02:25 +0000      159 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
+<tspan x="10" y="1578"> 58.  2017-04-19 18:03:26 +0000      159 bytes  examples/webpack2-gulp-react-flux-babel-karma/te\</tspan>
 <tspan x="10" y="1594">st/main.js</tspan>
-<tspan x="10" y="1610"> 59.  2017-04-19 18:02:25 +0000      562 bytes  examples/webpack2-gulp-react-flux-babel-karma/ts\</tspan>
+<tspan x="10" y="1610"> 59.  2017-04-19 18:03:26 +0000      562 bytes  examples/webpack2-gulp-react-flux-babel-karma/ts\</tspan>
 <tspan x="10" y="1626">config.json</tspan>
-<tspan x="10" y="1642"> 60.  2017-04-19 18:02:25 +0000     1003 bytes  examples/webpack2-gulp-react-flux-babel-karma/we\</tspan>
+<tspan x="10" y="1642"> 60.  2017-04-19 18:03:26 +0000     1003 bytes  examples/webpack2-gulp-react-flux-babel-karma/we\</tspan>
 <tspan x="10" y="1658">bpack.config.js</tspan>
-<tspan x="10" y="1674"> 61.  2017-04-19 18:02:25 +0000      386 bytes  examples/webpack2-react-cdn-simple/index.html</tspan>
-<tspan x="10" y="1690"> 62.  2017-04-19 18:02:25 +0000      315 bytes  examples/webpack2-react-cdn-simple/package.json</tspan>
-<tspan x="10" y="1706"> 63.  2017-04-19 18:02:25 +0000       63 bytes  examples/webpack2-react-cdn-simple/tsconfig.json</tspan>
-<tspan x="10" y="1722"> 64.  2017-04-19 18:02:25 +0000      477 bytes  examples/webpack2-react-cdn-simple/webpack.confi\</tspan>
+<tspan x="10" y="1674"> 61.  2017-04-19 18:03:26 +0000      386 bytes  examples/webpack2-react-cdn-simple/index.html</tspan>
+<tspan x="10" y="1690"> 62.  2017-04-19 18:03:26 +0000      315 bytes  examples/webpack2-react-cdn-simple/package.json</tspan>
+<tspan x="10" y="1706"> 63.  2017-04-19 18:03:26 +0000       63 bytes  examples/webpack2-react-cdn-simple/tsconfig.json</tspan>
+<tspan x="10" y="1722"> 64.  2017-04-19 18:03:26 +0000      477 bytes  examples/webpack2-react-cdn-simple/webpack.confi\</tspan>
 <tspan x="10" y="1738">g.js</tspan>
-<tspan x="10" y="1754"> 65.  2017-04-19 18:02:25 +0000       57 bytes  index.js</tspan>
-<tspan x="10" y="1770"> 66.  2017-04-19 18:02:25 +0000     3750 bytes  package.json</tspan>
+<tspan x="10" y="1754"> 65.  2017-04-19 18:03:26 +0000       57 bytes  index.js</tspan>
+<tspan x="10" y="1770"> 66.  2017-04-19 18:03:26 +0000     3750 bytes  package.json</tspan>
 </text>
 </svg>
