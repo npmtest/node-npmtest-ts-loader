@@ -1,4 +1,7 @@
-# test coverage for  [ts-loader (v2.0.3)](https://github.com/TypeStrong/ts-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-ts-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ts-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ts-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-ts-loader)
+# npmtest-ts-loader
+
+#### basic test coverage for  [ts-loader (v2.0.3)](https://github.com/TypeStrong/ts-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-ts-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ts-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ts-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-ts-loader)
+
 #### TypeScript loader for webpack
 
 [![NPM](https://nodei.co/npm/ts-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ts-loader)
